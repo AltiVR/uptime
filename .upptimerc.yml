@@ -1,12 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AltiVR # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
   - name: Altific's Humble Abode (AHA)
-    url: https://altific.net/
+    url: https://www.altific.net/
   - name: Altific Soundish
-    url: https://altific.net/account/soundish
+    url: https://www.altific.net/account/soundish
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,4 +19,4 @@ status-website:
     - title: Status
       href: /
     - title: Altific's Humble Abode
-      href: https://altific.net/
+      href: https://www.altific.net/
