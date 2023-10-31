@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.altific.net.ico",
     "slug": "altific-s-humble-abode-aha",
     "status": "down",
-    "uptime": "24.93%",
+    "uptime": "24.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.26%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 376,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 685,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 72,
+      "2023-10-31": 72,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -379,8 +380,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.altific.net.ico",
     "slug": "altific-soundish",
     "status": "down",
-    "uptime": "10.97%",
+    "uptime": "10.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.26%",
-    "time": 74,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 73,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 23,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 72,
+      "2023-10-31": 72,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -763,8 +764,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   }
 ]
